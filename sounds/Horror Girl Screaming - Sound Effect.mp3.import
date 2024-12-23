@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://r53wc1bu8wt6"
+path="res://.godot/imported/Horror Girl Screaming - Sound Effect.mp3-0f9c04757ed6d73e88433196a5736807.mp3str"
+
+[deps]
+
+source_file="res://sounds/Horror Girl Screaming - Sound Effect.mp3"
+dest_files=["res://.godot/imported/Horror Girl Screaming - Sound Effect.mp3-0f9c04757ed6d73e88433196a5736807.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

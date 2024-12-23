@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b8rcaj7mgkdqg"
+path="res://.godot/imported/JUMPSCARE - SOUND EFFECT.mp3-d8c7755e8141d83d7cebabf85d7b8afa.mp3str"
+
+[deps]
+
+source_file="res://sounds/JUMPSCARE - SOUND EFFECT.mp3"
+dest_files=["res://.godot/imported/JUMPSCARE - SOUND EFFECT.mp3-d8c7755e8141d83d7cebabf85d7b8afa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

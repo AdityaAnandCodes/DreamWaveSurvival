@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bt6mh5dlhhd7n"]
+
+[ext_resource type="PackedScene" uid="uid://d5lmq6kr6kgn" path="res://assets/models/Misc2/pine.glb" id="1_gqq7e"]
+
+[node name="OutsideTrees" type="Node3D"]
+
+[node name="pine2" parent="." instance=ExtResource("1_gqq7e")]
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0, 0)

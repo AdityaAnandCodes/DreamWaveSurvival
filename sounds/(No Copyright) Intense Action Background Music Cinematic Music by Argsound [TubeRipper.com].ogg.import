@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c5vobex04ltot"
+path="res://.godot/imported/(No Copyright) Intense Action Background Music Cinematic Music by Argsound [TubeRipper.com].ogg-6d0807b36045fe1271014ab7b17208c9.oggvorbisstr"
+
+[deps]
+
+source_file="res://sounds/(No Copyright) Intense Action Background Music Cinematic Music by Argsound [TubeRipper.com].ogg"
+dest_files=["res://.godot/imported/(No Copyright) Intense Action Background Music Cinematic Music by Argsound [TubeRipper.com].ogg-6d0807b36045fe1271014ab7b17208c9.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
